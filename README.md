@@ -1,8 +1,11 @@
 # CANCOL
-A tool to facilitate colocalization and tracking of cells in 2-photon intravital microscopy.
-Especially when there is channel crosstalking, high background, or cells become dim.
+a Computer-Assisted Annotation Tool to Facilitate Colocalization and Tracking of Immune Cells in Intravital Microscopy
 
-Can be applied also to improve the visibiity of other structures (i.e. vessels) and their 3d reconstruction.
+...Especially when there is channel crosstalking, high background, poor fluoophore-cell specificity, or cells become dim.
+
+And can also be applied to improve the visibiity of other structures (i.e. vessels) and facilitate their 3d reconstruction.
+
+In press at The Journal of Immunology (Expected release March 2022)
 
 ## INSTALLATION
 If you have Matlab installed
