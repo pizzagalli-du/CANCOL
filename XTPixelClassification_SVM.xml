@@ -1,0 +1,8 @@
+<CustomTools>
+  <Menu name="IRB 2-photon toolbox">
+	<Item name="Slim Pixel Classifier (SVM coloc)" icon="I"
+	tooltip="Creates an additional channel with the objects of interests only">
+	  <Command>MatlabXT::XTPixelClassification_SVM(%i)</Command>
+	</Item>
+  </Menu>
+</CustomTools>
