@@ -21,4 +21,4 @@ Once installed, it can be launched from the menu bar of imaris, under IRB 2-phot
 
 The standalone version CANCOL_standalone instead can be launched without Imaris installed.
 
-![Examples - resulting virtual channel specific for the cells of interest color-coded in magenta](/assets/examples_cancol.png)
+![Examples - resulting virtual channel specific for the cells of interest color-coded in magenta](/assets/examples_coloc.png)
